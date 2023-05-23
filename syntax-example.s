@@ -1,0 +1,4 @@
+labels:
+	byte 'a'
+	word
+	
